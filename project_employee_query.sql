@@ -1,3 +1,5 @@
+emp=employee table, proj= project table team=team table
+
 /*Create a database named employee, 
 then import data_science_team.csv proj_table.csv 
 and emp_record_table.csv into the employee database from the given resources.*/
